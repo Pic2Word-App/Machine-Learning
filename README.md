@@ -12,6 +12,7 @@ As you can see on this repository, we generate our own dataset, consists of 10k+
 ## Image's Classes
 Currently, our model could recognize object from 71 class, you can see the class indices on 'class_indices.csv' file
 
-## Model's Accuracy
+## Model's Detail
+We use transfer learning method on pretrained model, ResNet50.
 On the last epoch, we get 92% training accuracy and 95% validation accuracy)
 ![akurasi model](accuracy-proof.png)
