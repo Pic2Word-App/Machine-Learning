@@ -7,7 +7,8 @@ Machine Learning model for image classification on common object pictures
 - M180D4KX2497 - Eka Risma Trisya
 
 ## Our Dataset
-As you can see on this repository, we generate our own dataset, consists of 10k+ pictures of common objects around us.
+We generate our own dataset, consists of 10k+ pictures of common objects around us.
+[Dataset Link](https://drive.google.com/drive/folders/1VxqU7_dBbh4RBfwhP7KY1YbtVzLagerJ?usp=drive_link)
 
 ## Image's Classes
 Currently, our model could recognize object from 71 class, you can see the class indices on 'class_indices.csv' file
