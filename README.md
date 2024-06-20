@@ -12,3 +12,4 @@ As you can see on this repository, we generate our own dataset, consists of 10k+
 ## Image's Classes
 Currently, our model could recognize object from 71 class, you can see the class indices on 'class_indices.csv' file
 
+## Model's Accuracy
